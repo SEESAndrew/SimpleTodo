@@ -14,7 +14,7 @@ Time spent: 2 or so hours spent in total
 
 ## Video Walkthrough
 
-![Video Walkthrough](SimpleTodo/Desktop 2022.01.21 - 10.24.14.02_Trim (2).gif)
+![Video Walkthrough](SimpleTodo/Gif.gif)
 
 ## Notes
 Enabling Virtualization in the BIOS was a key step in allowing Android Studio to run properly.
