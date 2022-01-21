@@ -8,13 +8,13 @@ Time spent: 2 or so hours spent in total
 
 ## User Stories
 
-[x] User can view a list of todo items
-[x] User can successfully add and remove items from the todo list
-[x] User's list of items persisted upon modification and were retrieved properly on app restart
+[x] User can view a list of todo items <br>
+[x] User can successfully add and remove items from the todo list <br>
+[x] User's list of items persisted upon modification and were retrieved properly on app restart <br>
 
 ## Video Walkthrough
 
-<img src='https://imgur.com/a/SZwntnq' title='Video Walkthrough' width='' alt='Video Walkthrough'/>
+<img src='https://imgur.com/a/SZwntnq' title='Video Walkthrough'/>
 
 ## Notes
 Enabling Virtualization in the BIOS was a key step in allowing Android Studio to run properly.
