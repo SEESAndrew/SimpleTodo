@@ -14,7 +14,7 @@ Time spent: 2 or so hours spent in total
 
 ## Video Walkthrough
 
-![Video Walkthrough](https://imgur.com/a/SZwntnq.gif)
+![Video Walkthrough](Gif.gif)
 
 ## Notes
 Enabling Virtualization in the BIOS was a key step in allowing Android Studio to run properly.
